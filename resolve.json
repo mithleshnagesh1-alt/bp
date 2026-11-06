@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "stream": {
+    "url": "https://files.catbox.moe/example_hi_res.flac",
+    "format": "FLAC",
+    "sampleRate": 96000,
+    "bitDepth": 24,
+    "codec": "flac",
+    "isSpatial": false
+  }
+}
