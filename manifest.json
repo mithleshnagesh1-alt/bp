@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "description": "Custom Lossless & Spatial Source",
   "endpoints": {
-    "resolve": "https://raw.githubusercontent.com/mithleshnagesh1-alt/bitchord-provider/main/resolve.json"
+    "resolve": "https://raw.githubusercontent.com/mithleshnagesh1-alt/bp/main/resolve.json"
   }
 }
