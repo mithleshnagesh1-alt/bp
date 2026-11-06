@@ -1,8 +1,8 @@
 {
-  "id": "com.pawan.bitchord.hires",
+  "id": "com.pawan.bitchord.hires.v2",
   "name": "Personal Hi-Res & Atmos Provider",
-  "version": "1.0.0",
-  "specVersion": "1.0.0",
+  "version": "1.0.1",
+  "specVersion": 1,
   "description": "Custom Lossless & Spatial Source",
   "endpoints": {
     "resolve": "https://raw.githubusercontent.com/mithleshnagesh1-alt/bp/main/resolve.json"
